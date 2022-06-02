@@ -1,0 +1,110 @@
+<html>
+<head>
+	<title>SPEEDER - Transport</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<section id="banner"> 
+<img src="logo.png" class="logo">
+<div class="banner-text">
+
+	<h1>SPEEDER</h1>
+	<p>Бърза и сигурна доставка</p>
+	<p>Довери се на SPEEDER</p>
+	
+    </div>
+</section>
+
+<div id="sideNav">
+	<nav>
+		<ul>
+			<li><a href="#">Начало</a></li>
+            <li><a href="#Занас">За нас</a></li>
+            <li><a href="#uslugi">Услуги</a></li>
+            <li><a href="#satrudnici">Сътрудници</a></li>
+            <li><a href="#kontakti">Контакти </a></li>
+		</ul>
+	</nav>
+</div>
+
+
+<!--За нас-->
+
+<selection id="Занас">
+	<div class="title-text">
+		<p>За нас</p>
+		<h1> Малко информация за нас която ще ви отговори защо да се доверите на нас!</h1>
+	<ul>
+		<li>jina</li>
+	</ul>
+	</div>
+<div class="Занас-инф">
+	<div class="За нас">
+		<h1>Кои сме ние
+Повече от 20 години растем и се развиваме, за да сме ви полезни. От създаването си през 1993 г. досега Еконт се налага като експерт в логистиката за България. Водени от стремежа да дадем повече от обикновеното, ние не спираме да създаваме нови и по-добри решения за вас и вашия бизнес в областта на куриерските, пощенските и карго услугите.</h1>
+<div class="За нас-desc">
+<div class="За нас-icon"></div> 
+<div class="Занас-img"></div>
+
+</div>
+	<img src="2.jpg">
+</div>
+</div>
+
+</selection>
+
+<!--Услуги-->
+
+<section id="uslugi">
+	<div class="title-text">
+<p>Услуги</p>
+<h1>1)Куриерски услуги</h1>
+<h1>2)Пощенски услуги</h1>
+<h1>3)Карго услуги</h1>
+<h1>4)Административни услуги</h1>
+</div>
+<div class="uslugi-box">
+	<div class="single-uslugi">
+	<img src="1.png"> 	
+	</div>
+	
+</div>
+
+</section>
+
+
+<!--сътрудници-->
+
+
+<section id="satrudnici">
+
+<div class="title-text">
+<p>Сътрудници</p>
+<h1>
+<a href="https://www.econt.com" class="bnt">Еконт</a>,
+<a href="https://www.speedy.bg/bg/" class="btn">Speedy</a>, BIZ, CHT, Adventador</h1>
+
+<div class="satrudnici-box"
+
+</section>
+
+<!--Контакти-->
+
+<section id="kontakti">
+
+<p>Контакти</p>
+<h1>Посете нашите услуги</h1>
+</div>
+<div class="kontakti-row">
+<div class="kontakti-left">
+	<h1>Електронна поща и телефон за връзка</h1>
+	<p>speeder@gmail.com</p>
+	<p>+359 8885 65 489</p>
+</div>
+<div class="kontakti-right">
+<h1>Офиси на SPEEDER в България</h1>
+<div class="kontakti-right">
+	<img src="9.png"> 
+
+</div>
+</div>
